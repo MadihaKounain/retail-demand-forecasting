@@ -114,21 +114,7 @@ python src/modeling.py
 
 ---
 
-## 📄 Resume Bullets
 
-```
-• Built end-to-end retail demand forecasting pipeline (SARIMA + Prophet) on 1M+ Rossmann 
-  sales records, achieving MAPE of 11.3% vs 19.8% baseline — a 43% accuracy improvement.
-
-• Engineered 12 time-series features (lag, rolling mean, holiday flags) reducing 
-  RMSE by 28% and cutting projected overstock costs by ~$420K annually.
-
-• Deployed modular Python forecasting system (src/ architecture) with automated 
-  evaluation reports; reduced analyst turnaround time from 3 days to 4 hours.
-
-• Identified 3 key demand drivers (promotions, school holidays, store type) through 
-  EDA and Prophet component analysis, directly informing a revised procurement SOP.
-```
 
 ---
 
